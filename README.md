@@ -14,7 +14,7 @@ We'll go through the process of activating the extension in VS Code, and how to 
 ## Mini-FAQ
 1) What is Visual Studio Code?
 
-Visual Studio Code, or VS Code, is an interactive development environment (IDE). It allows you to write and run code from a range of differnet programming languages (e.g., C, Java), and also has a range of useful plugins and extensions. It's particuarlly good for Python and R code.
+Visual Studio Code, or VS Code, is an integrated development environment (IDE). It allows you to write and run code from a range of differnet programming languages (e.g., C, Java), and also has a range of useful plugins and extensions. It's particuarlly good for Python and R code.
 
 2) What is Anaconda?
 
